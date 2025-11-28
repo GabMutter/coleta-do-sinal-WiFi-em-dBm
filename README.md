@@ -87,8 +87,9 @@ void loop() {
 
 ## 4. Resultados – Dashboard
 
-📌 **(INSERIR AQUI UMA IMAGEM DO SEU DASHBOARD)**
-Você pode colocar a captura de tela mostrando o gráfico do Adafruit IO registrando o dBm no tempo.
+<div align="center"> 
+<img src="./dashboard.png">
+</div>
 
 ---
 
