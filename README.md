@@ -95,7 +95,6 @@ void loop() {
 
 ## 5. Vídeo de Demonstração
 
-📌 **(INSERIR AQUI O LINK OU QR CODE DO VÍDEO GRAVADO)**
-Pode ser no YouTube, Google Drive, ou onde sua atividade pede.
+Link do Drive com o video: https://drive.google.com/file/d/15n__ioP5Dbr-5OLDxFcpUYM_0vSyRygp/view?usp=sharing
 
 ---
