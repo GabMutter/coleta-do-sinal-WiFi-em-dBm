@@ -91,6 +91,8 @@ void loop() {
 <img src="./dashboard.png">
 </div>
 
+No momneto em que o grafico está mais embaixo é quando a internet está pior, repare que perto do final do grico tem uma parte que chega no noventa, que foi quando eu entrei no elevador e perdeu o sinal de internet.
+
 ---
 
 ## 5. Vídeo de Demonstração
